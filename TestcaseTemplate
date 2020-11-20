@@ -1,0 +1,61 @@
+//https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/bishu-and-soldiers/
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+#define gc getchar_unlocked
+
+#define f( i, l, n ) for( int i = l; l < n ? i < n : i > n; l < n ? i++ : i-- )
+#define fi( it, a ) for( auto it = a.begin(); it != a.end(); it++ )
+
+#define si( x ) scanf( "%d", &x )
+#define sl( x ) scanf( "%lld", &x )
+#define ss( x ) scanf( "%s", &x )
+
+#define pi( x ) printf( "%d\n" )
+#define pl( x ) printf( "%lld\n" )
+#define ps( x ) printf( "%s\n" )
+
+#define pb push_back
+#define mp make_pair
+#define F first
+#define S second
+#define all(x) x.begin, x.end()
+
+#define clr(x) memset( x, 0, sizeOf(x) )
+#define sortall( x ) sort( all(x) )
+ 
+#define PI 3.1415926535897932384626
+#define mod = 1000000007
+
+#define ll long long
+
+typedef pair<int, int> pii;
+typedef pair<ll, ll> pll;
+typedef vector<int> vi;
+typedef vector<ll> vl;
+typedef vector<pii> vpii;
+typedef vector<pll> vpll;
+typedef vector<vi> vvi;
+typedef vector<vl> vvl;
+
+
+int master(){
+
+    
+
+}
+
+int main(){
+
+    int numberOfTestcases;
+    si( numberOfTestcases );
+
+    while( numberOfTestcases -- ){
+
+        pi( master() );
+
+    }
+
+}
