@@ -12,9 +12,9 @@ using namespace std;
 #define sl( x ) scanf( "%lld", &x )
 #define ss( x ) scanf( "%s", &x )
 
-#define pi( x ) printf( "%d\n" )
-#define pl( x ) printf( "%lld\n" )
-#define ps( x ) printf( "%s\n" )
+#define pi( x ) printf( "%d\n", x )
+#define pl( x ) printf( "%lld\n", x )
+#define ps( x ) printf( "%s\n", x )
 
 #define pb push_back
 #define mp make_pair
