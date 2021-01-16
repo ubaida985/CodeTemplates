@@ -4,7 +4,7 @@ using namespace std;
 
 #define gc getchar_unlocked
 
-#define f( i, l, n ) for( int i = l; l < n ? i < n : i > n; l < n ? i++ : i-- )
+#define REP( i, l, n ) for( int i = l; l < n ? i < n : i > n; l < n ? i++ : i-- )
 #define tr( it, a ) for( auto it = a.begin(); it != a.end(); it++ )
 
 
